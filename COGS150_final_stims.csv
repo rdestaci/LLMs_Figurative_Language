@@ -1,0 +1,76 @@
+item,condition,context,final_word
+0,metaphor,The orchestra filled the concert hall with,sunshine
+0,anomaly,The orchestra filled the concert hall with,hail
+0,literal,The orchestra filled the concert hall with,music
+1,metaphor,The children playing in the park trampled the soft green,carpet
+1,anomaly,The children playing in the park trampled the soft green,bedspread
+1,literal,The children playing in the park trampled the soft green,grass
+2,metaphor,The flowers were watered by nature's,tears
+2,anomaly,The flowers were watered by nature's,laughter
+2,literal,The flowers were watered by nature's,rain
+3,metaphor,"It was hard to see the road, the air was so",soupy
+3,anomaly,"It was hard to see the road, the air was so",beefy
+3,literal,"It was hard to see the road, the air was so",foggy
+4,metaphor,His face was contorted by an angry,cloud
+4,anomaly,His face was contorted by an angry,map
+4,literal,His face was contorted by an angry,frown
+5,metaphor,The camel is a desert,taxi
+5,anomaly,The camel is a desert,table
+5,literal,The camel is a desert,animal
+6,metaphor,Not even Einstein's ideas were all,gold
+6,anomaly,Not even Einstein's ideas were all,coal
+6,literal,Not even Einstein's ideas were all,great
+7,metaphor,Some jobs are,prisons
+7,anomaly,Some jobs are,houses
+7,literal,Some jobs are,boring
+8,metaphor,In the spring the brown branches are covered in tiny,emeralds
+8,anomaly,In the spring the brown branches are covered in tiny,sapphires
+8,literal,In the spring the brown branches are covered in tiny,leaves
+9,metaphor,The rush hour train stopped and out poured the,sardines
+9,anomaly,The rush hour train stopped and out poured the,tuna
+9,literal,The rush hour train stopped and out poured the,commuters
+10,metaphor,The shampoo effectively removed the,snowflakes
+10,anomaly,The shampoo effectively removed the,ice
+10,literal,The shampoo effectively removed the,dandruff
+11,metaphor,He hates the slime that sticks on filthy,deeds
+11,anomaly,He hates the slime that sticks on filthy,rules
+11,literal,He hates the slime that sticks on filthy,toilets
+12,metaphor,Cigarettes are like,timebombs
+12,anomaly,Cigarettes are like,furniture
+12,literal,Cigarettes are like,cigars
+13,metaphor,The worker exhausted his,fuel
+13,anomaly,The worker exhausted his,chickens
+13,literal,The worker exhausted his,energy
+14,metaphor,For their daughter's wedding the couple proposed a,ceasefire
+14,anomaly,For their daughter's wedding the couple proposed a,highchair
+14,literal,For their daughter's wedding the couple proposed a,toast
+15,metaphor,The Mona Lisa was DaVinci's,Hamlet
+15,anomaly,The Mona Lisa was DaVinci's,play
+15,literal,The Mona Lisa was DaVinci's,masterpiece
+16,metaphor,"He sank on the featherbed, enjoying its soft",embrace
+16,anomaly,"He sank on the featherbed, enjoying its soft",taste
+16,literal,"He sank on the featherbed, enjoying its soft",feel
+17,metaphor,"Hoping to prevent a scene, she tried to lower his",thermostat
+17,anomaly,"Hoping to prevent a scene, she tried to lower his",computer
+17,literal,"Hoping to prevent a scene, she tried to lower his",rage
+18,metaphor,The buttery pastries melted all over his,arteries
+18,anomaly,The buttery pastries melted all over his,kidney
+18,literal,The buttery pastries melted all over his,chin
+19,metaphor,Touching a turtle causes it to retreat into its,armor
+19,anomaly,Touching a turtle causes it to retreat into its,nightgown
+19,literal,Touching a turtle causes it to retreat into its,shell
+20,metaphor,Cave paintings are ancient,graffiti
+20,anomaly,Cave paintings are ancient,music
+20,literal,Cave paintings are ancient,art
+21,metaphor,The Christmas stocking was stuffed to the,gills
+21,anomaly,The Christmas stocking was stuffed to the,lungs
+21,literal,The Christmas stocking was stuffed to the,top
+22,metaphor,Before gargling his breath smelled,swampy
+22,anomaly,Before gargling his breath smelled,red
+22,literal,Before gargling his breath smelled,horrible
+23,metaphor,The spring wind created a pollen,blizzard
+23,anomaly,The spring wind created a pollen,blackout
+23,literal,The spring wind created a pollen,cloud
+24,metaphor,She inhaled the sea,perfume
+24,anomaly,She inhaled the sea,cat
+24,literal,She inhaled the sea,breeze
