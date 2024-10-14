@@ -1,1 +1,11 @@
 # LLMs_Figurative_Language
+
+How do pre-trained large language models (LLMs) interpret figurative language? Do these models process figurative language in an analogous way to humans, despite the absence of embodied experience? 
+
+This project aims to assess whether GPT-2 behaves similarly to humans in response to novel metaphors. To achieve this, surprisal is computed for each stimulus and the effects between conditions (`metaphor`, `anomaly`, and `literal`) are compared to the effects obtained from original human ERP study conducted by [Tartter et al. (2002)](https://doi.org/10.1006/brln.2001.2610).
+
+One prominent application of LLMs is to understand and model human language processing. Research in this area gives a lot of insight into how language statistics influence how we process language. Processing figurative language, on the other hand, is particularly interesting because arriving at the true intended meaning requires that we are able to parse between literal and figurative interpretations. Whereas humans seem to do this implicitly, the question stands on whether LLMs share this ability, emergent solely from language statistics.
+
+[Tartter et al. (2002)](https://doi.org/10.1006/brln.2001.2610) addresses figurative language processing in humans, specifically in response to novel metaphors. The ERP recordings that were captured in this study show a robust N400 effect to anomalous sentence endings, but not for metaphorical or literal sentence endings. The absence of a significant N400 effect for metaphorical endings was attributed to differences in earlier processing windows (N200) involved in syntactic constraint and selection restrictions.
+
+In this analysis, I aim to explore whether GPT-2 responds similarly to novel metaphors as they do in the [Tartter et al. (2002)](https://doi.org/10.1006/brln.2001.2610) human ERP study, operationalizing the N400 effect with surprisal. If GPT-2 behaves similarly to humans in this manner, then (1) literal sentence endings will elicit lower surprisal values, (2) anomalous sentence endings will elicit higher surprisal values, and (3) there is no significant difference in surprisal between literal and metaphorical sentence endings.
