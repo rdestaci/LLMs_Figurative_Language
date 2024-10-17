@@ -4,6 +4,8 @@ How do pre-trained large language models (LLMs) interpret figurative language? D
 
 This project aims to assess whether GPT-2 behaves similarly to humans in response to novel metaphors. To achieve this, surprisal is computed for each stimulus and the effects between conditions (`metaphor`, `anomaly`, and `literal`) are compared to the effects obtained from original human ERP study conducted by [Tartter et al. (2002)](https://doi.org/10.1006/brln.2001.2610).
 
+--- 
+
 One prominent application of LLMs is to understand and model human language processing. Research in this area gives a lot of insight into how language statistics influence how we process language. Processing figurative language, on the other hand, is particularly interesting because arriving at the true intended meaning requires that we are able to parse between literal and figurative interpretations. Whereas humans seem to do this implicitly, the question stands on whether LLMs share this ability, emergent solely from language statistics.
 
 [Tartter et al. (2002)](https://doi.org/10.1006/brln.2001.2610) addresses figurative language processing in humans, specifically in response to novel metaphors. The ERP recordings that were captured in this study show a robust N400 effect to anomalous sentence endings, but not for metaphorical or literal sentence endings. The absence of a significant N400 effect for metaphorical endings was attributed to differences in earlier processing windows (N200) involved in syntactic constraint and selection restrictions.
